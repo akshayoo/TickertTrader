@@ -29,6 +29,12 @@ https://tickerttraderwebapp-7vzzyzkkzw6nw5mpkxtoqf.streamlit.app/
 
 ----------------------------------------
 
+Contact
+Author: Akshay
+Email: akshayramesh543@gmail.com
+
+-----------------------   ------------------------
+
 License
 
 This project is licensed under the MIT License.
