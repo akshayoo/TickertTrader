@@ -17,7 +17,7 @@ Regularly updated predictions for daily market insights.
 Getting Started
 
 Installation
-git clone 
+Clone the reprository
 cd nse-stock-prediction
 pip install -r requirements.txt
 
